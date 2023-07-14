@@ -11,3 +11,6 @@
 5．通过一定的算法控制电机驱动模块实现自动开关窗；
 
 6．通过无线通信模块实现手机APP远程查看及控制开关窗。
+
+
+![image](https://github.com/Senpouuu/Window-Control-System-Based-On-STM32/assets/102023293/67d47b36-a16e-4a90-ba6c-fbba377dd6a7)
