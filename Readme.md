@@ -13,4 +13,4 @@
 6．通过无线通信模块实现手机APP远程查看及控制开关窗。
 
 
-![image](https://github.com/Senpouuu/Window-Control-System-Based-On-STM32/assets/102023293/67d47b36-a16e-4a90-ba6c-fbba377dd6a7)
+![Schematic_窗户控制系统 copy_2023-07-14](https://github.com/Senpouuu/Window-Control-System-Based-On-STM32/assets/102023293/ff3fd174-2eda-45fe-a6a9-8dea54e6df44)
